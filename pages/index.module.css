@@ -1,0 +1,58 @@
+/* YourComponent.css */
+
+/* Common Styles */
+
+  
+  /* Home Component Styles */
+  .home-container {
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .upload-header {
+    color: #333;
+  }
+  
+  .upload-form {
+    margin-top: 20px;
+  }
+  
+  .file-label {
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .file-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .upload-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Display Component Styles */
+  .displayContainer {
+    margin-top: 20px;
+  }
+  
+  .question-item {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #333;
+  }
+  
